@@ -30,4 +30,10 @@ Done. Now run:
 
 ## 複数プロジェクトを入れ込めるように設定
 - https://vitejs.dev/guide/build.html#multi-page-app
-- 
+
+
+## Tailwind CSS インストール
+- https://tailwindcss.com/docs/guides/vite
+- こちらを見ながら、reactの部分を除いてインストール
+- 自動補完が出ないな...と思っていたが、VSCodeの拡張機能 [Tailwind CSS IntelliSense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) を入れて解決
+- ぺらいちの時はこっち [Vite + Tailwind CSSでペライチHTMLをマークアップする](https://zenn.dev/mottox2/articles/vite-tailwind)
