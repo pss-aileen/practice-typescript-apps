@@ -7,7 +7,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
-        commitMessageGenerator: resolve(__dirname, "commit-message-generator/"),
+        commitMessageGenerator: resolve(__dirname, "commit-message-generator/index.html"),
       },
     },
   },
