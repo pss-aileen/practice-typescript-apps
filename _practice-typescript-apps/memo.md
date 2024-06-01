@@ -27,3 +27,7 @@ Done. Now run:
 
 ## `code .` が動かなかったので、設定した
 - [macos - "code ." is not working in on the command line for Visual Studio Code on OS X/Mac - Stack Overflow](https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma)
+
+## 複数プロジェクトを入れ込めるように設定
+- https://vitejs.dev/guide/build.html#multi-page-app
+- 
