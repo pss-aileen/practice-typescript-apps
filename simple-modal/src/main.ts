@@ -1,4 +1,5 @@
 {
+
   createOpenButtonAction();
   function createOpenButtonAction() {
     const openButton = document.getElementById("open-modal-button") as HTMLElement | null;
@@ -68,6 +69,6 @@
         break;
     }
 
-    buttonWrapper.innerHTML = `<button id="open-modal-button" class="${cssType}">Click Me</button>`;
+    buttonWrapper.innerHTML = `<button id="open-modal-button" class="${cssType}">Click Me 🥰</button>`;
   }
 }
