@@ -8,6 +8,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, "index.html"),
         commitMessageGenerator: resolve(__dirname, "commit-message-generator/index.html"),
+        simpleModal: resolve(__dirname, "simple-modal/index.html"),
       },
     },
   },
