@@ -1,4 +1,5 @@
 {
+  "homepage": "https://pss-aileen.github.io/practice-typescript-apps/",
   "name": "practice-typescript-apps",
   "private": true,
   "version": "0.0.0",
@@ -6,12 +7,14 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "tsc && vite build && gh-pages -d dist"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "eslint": "^9.4.0",
     "eslint-plugin-tailwindcss": "^3.17.0",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.38",
     "prettier": "^3.3.0",
     "tailwindcss": "^3.4.3",
