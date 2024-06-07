@@ -1,3 +1,5 @@
+// import "./style.css";
+import "tailwindcss/tailwind.css";
 {
   class Modal {
     modal: HTMLElement | null;
