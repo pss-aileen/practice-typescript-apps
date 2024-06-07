@@ -3,6 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  base: "/pss-aileen.github.io/practice-typescript-apps/",
   build: {
     rollupOptions: {
       input: {
