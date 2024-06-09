@@ -1,4 +1,4 @@
-import "tailwindcss/tailwind.css";
+// import "tailwindcss/tailwind.css";
 
 // fetch("https://dummyjson.com/test")
 fetch("https://dummyjson.com/quotes/random")
