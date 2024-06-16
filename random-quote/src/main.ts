@@ -13,3 +13,4 @@ fetch("https://dummyjson.com/quotes/random")
     quoteDom.textContent = data.quote;
     authorDom.textContent = data.author;
   });
+
