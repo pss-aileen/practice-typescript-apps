@@ -10,6 +10,7 @@ export default defineConfig({
         main: resolve(__dirname, "index.html"),
         commitMessageGenerator: resolve(__dirname, "commit-message-generator/index.html"),
         simpleModal: resolve(__dirname, "simple-modal/index.html"),
+        randomQuote: resolve(__dirname, "random-quote/index.html"),
       },
     },
   },
